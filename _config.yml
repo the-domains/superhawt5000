@@ -1,7 +1,7 @@
 name: Peiter C Hergert
 favicon: null
-layout_spectrum: 0.72454
-typography_spectrum: 0.59731
+layout_spectrum: 1
+typography_spectrum: 0.21
 title: Motion Director
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#000000'
-    - '#767a7d'
-    - '#4e4900'
-    - '#bd061b'
-  brandStrength: 0.1875
+    - '#010101'
+    - '#4c137c'
+    - '#f7f5fa'
+    - '#a287a8'
+    - '#bebcbc'
+  brandStrength: 0.25
   lightness: 0.5625
   saturation: 0.5625
   rhythmicContrast: 0.5
